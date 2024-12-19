@@ -1,5 +1,4 @@
-# Reproducao Mínima
-Uma descrição do que diabos é realmente uma reprodução mínima.
+# Reprodução Mínima
 
 ## O que é um repositório de reprodução mínima?
 
